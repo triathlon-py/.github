@@ -17,4 +17,4 @@ api = TriathlonAPI("YOUR_TOKEN")
 print(api.search.athletes("james"))
 ```
 
-See the [repo](https://github.com/triathlon-py/triathlon-py/) for more
+## See the [repo](https://github.com/triathlon-py/triathlon-py/) for more
